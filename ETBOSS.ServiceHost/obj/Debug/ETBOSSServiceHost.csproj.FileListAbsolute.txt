@@ -1,0 +1,27 @@
+c:\users\etak\documents\visual studio 2017\Projects\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.ServiceHost.exe.config
+c:\users\etak\documents\visual studio 2017\Projects\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.ServiceHost.exe
+c:\users\etak\documents\visual studio 2017\Projects\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.ServiceHost.pdb
+c:\users\etak\documents\visual studio 2017\Projects\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.Service.dll
+c:\users\etak\documents\visual studio 2017\Projects\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.Service.pdb
+c:\users\etak\documents\visual studio 2017\Projects\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.Service.dll.config
+c:\users\etak\documents\visual studio 2017\Projects\ETBOSS\ETBOSS.ServiceHost\obj\Debug\ETBOSSServiceHost.csprojResolveAssemblyReference.cache
+c:\users\etak\documents\visual studio 2017\Projects\ETBOSS\ETBOSS.ServiceHost\obj\Debug\ETBOSS.ServiceHost.exe
+c:\users\etak\documents\visual studio 2017\Projects\ETBOSS\ETBOSS.ServiceHost\obj\Debug\ETBOSS.ServiceHost.pdb
+E:\C sharp\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.ServiceHost.exe.config
+E:\C sharp\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.ServiceHost.exe
+E:\C sharp\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.ServiceHost.pdb
+E:\C sharp\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.Service.dll
+E:\C sharp\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.Service.pdb
+E:\C sharp\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.Service.dll.config
+E:\C sharp\ETBOSS\ETBOSS.ServiceHost\obj\Debug\ETBOSSServiceHost.csprojResolveAssemblyReference.cache
+E:\C sharp\ETBOSS\ETBOSS.ServiceHost\obj\Debug\ETBOSS.ServiceHost.exe
+E:\C sharp\ETBOSS\ETBOSS.ServiceHost\obj\Debug\ETBOSS.ServiceHost.pdb
+E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.ServiceHost\obj\Debug\ETBOSS.ServiceHost.exe
+E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.ServiceHost\obj\Debug\ETBOSS.ServiceHost.pdb
+E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.ServiceHost.exe.config
+E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.ServiceHost.exe
+E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.ServiceHost.pdb
+E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.Service.dll
+E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.Service.pdb
+E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.ServiceHost\bin\Debug\ETBOSS.Service.dll.config
+E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.ServiceHost\obj\Debug\ETBOSSServiceHost.csprojResolveAssemblyReference.cache

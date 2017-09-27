@@ -8,9 +8,9 @@ using System.Text;
 namespace ETBOSSService
 {
     // 
-    public class ETBOSSService : IETBOSSService
+    public class ETBOSSService : IETBOSSServiceChanged
     {
-        public string GetCustomerName(string name)
+        public string GetCustomerNameChanged(string name)
         {
             return "The customer name is "+name;
         }

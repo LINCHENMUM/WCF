@@ -12,6 +12,5 @@ E:\C sharp\ETBOSS\ETBOSS.Service\obj\Debug\ETBOSS.Service.pdb
 E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.Service\obj\Debug\ETBOSSService.csprojResolveAssemblyReference.cache
 E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.Service\obj\Debug\ETBOSS.Service.dll
 E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.Service\obj\Debug\ETBOSS.Service.pdb
-E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.Service\bin\Debug\ETBOSS.Service.dll.config
 E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.Service\bin\Debug\ETBOSS.Service.dll
 E:\C sharp\GitHub\WCF\ETBOSS\ETBOSS.Service\bin\Debug\ETBOSS.Service.pdb
